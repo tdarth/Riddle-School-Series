@@ -1,4 +1,4 @@
 # Riddle-School-Series
 
-#all credits to Jonochrome
-#i own nothing
+all credits to Jonochrome
+i own nothing
